@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Arun-K-Ram/Arun-K-Ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a MSc Mechanical Engineering student with a specialization in Dynamic systems and Robotics with a keen interest in Data science and Machine learning. Learning, optimizing, and implementing are some of the key aspects that mainly describe me and I love to present the end product into the market. I am looking for a great working and learning experience where I can grow as an individual while challenging myself and be an asset to the hiring company. I believe my knowledge and capabilities could be beneficial to the hiring company in more ways than one. 
+My interest is mainly focused on Data Science, Project management, Automation, programming,  design and development, Robotics.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently venturing and trying out different projects which are related to Natural Language Processing, Image Processing, Ensemble Methods, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. I have previously worked on three projects in Neural Networks which was based on Natural Language Processing and Image Processing.
+
+### 🌱 I’m currently learning
+
+I am trying to improve my knowledge on cloud computing and Data lake. 
+
+
+### 📫 How to reach me:
+[1]: https://www.linkedin.com/in/arun-ramachandran-a2019a/
+[2]: https://mail.google.com/mail/u/0/#inbox
+
+### ⚡ Fun fact: 
+
+I am a National Level Basketball Player.
+I am awarded a scholarship of 15K at Florida Tech.
