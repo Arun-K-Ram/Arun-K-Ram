@@ -13,8 +13,7 @@ I am trying to improve my knowledge on cloud computing and Data lake.
 
 
 ### 📫 How to reach me:
-[1]: https://www.linkedin.com/in/arun-ramachandran-a2019a/
-[2]: https://mail.google.com/mail/u/0/#inbox
+<a href="https://www.linkedin.com/in/arun-ramachandran-a2019a/"><img height="50" src="https://github.com/Arun-K-Ram/Arun-K-Ram/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
 ### ⚡ Fun fact: 
 
