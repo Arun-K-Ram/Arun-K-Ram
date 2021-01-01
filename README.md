@@ -19,5 +19,5 @@ I am trying to improve my knowledge on cloud computing and Data lake.
 
 ### ⚡ Fun fact: 
 
-# [1]. I am a National Level Basketball Player.
-# [2]. I am awarded a scholarship of 15K at Florida Tech.
+* I am a National Level Basketball Player.
+* I am awarded a scholarship of 15K at Florida Tech.
