@@ -13,9 +13,9 @@ I am trying to improve my knowledge on cloud computing and Data lake.
 
 
 ### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/arun-ramachandran-a2019a/"><img height="30" src="https://github.com/Arun-K-Ram/Arun-K-Ram/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arun-ramachandran-a2019a/"><img height="50" src="https://github.com/Arun-K-Ram/Arun-K-Ram/blob/main/linkedin.png"
 
 ### ⚡ Fun fact: 
 
-I am a National Level Basketball Player.
-I am awarded a scholarship of 15K at Florida Tech.
+## I am a National Level Basketball Player.
+## I am awarded a scholarship of 15K at Florida Tech.
