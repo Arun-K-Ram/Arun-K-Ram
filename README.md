@@ -5,11 +5,11 @@ My interest is mainly focused on Data Science, Project management, Automation, p
 
 ### 🔭 I’m currently working on 
 
-I am currently venturing and trying out different projects which are related to Natural Language Processing, Image Processing, Ensemble Methods, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. I have previously worked on three projects in Neural Networks which was based on Natural Language Processing and Image Processing.
+I am currently venturing and trying out different projects which are related to Natural Language Processing, Image Processing, Data Augmentation, Ensemble Methods, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. I have previously worked on three projects in Neural Networks which was based on Natural Language Processing and Image Processing.
 
 ### 🌱 I’m currently learning
 
-I am trying to improve my knowledge on cloud computing and Data lake. 
+My primary focus is to improve my knowledge on cloud computing and Data lake. 
 
 
 ### 📫 How to reach me:
