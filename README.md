@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a MSc Mechanical Engineering student with a specialization in Dynamic systems and Robotics with a keen interest in Data science and Machine learning. Learning, optimizing, and implementing are some of the key aspects that mainly describe me and I love to present the end product into the market. I am looking for a great working and learning experience where I can grow as an individual while challenging myself and be an asset to the hiring company. I believe my knowledge and capabilities could be beneficial to the hiring company in more ways than one. 
+I am a certified Tableau Desktop Specialist with a MSc in Mechanical Engineering student with a specialization in Dynamic systems and Robotics with a keen interest in Data science and Machine learning. Learning, optimizing, and implementing are some of the key aspects that mainly describe me and I love to present the end product into the market. I am looking for a great working and learning experience where I can grow as an individual while challenging myself and be an asset to the hiring company. I believe my knowledge and capabilities could be beneficial to the hiring company in more ways than one. 
 My interest is mainly focused on Data Science, Project management, Automation, programming,  design and development, Robotics.
 
 ### 🔭 I’m currently working on 
