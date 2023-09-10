@@ -5,7 +5,7 @@ My interest is mainly focused on Data Science, Project management, Automation, p
 
 ### 🔭 I’m currently working on 
 
-I am currently venturing and trying out different methods to conduct software testing using python and also in parallel working on understanding the fundamentals of automation using Jenkins, Gitbash and Azure Dev Ops.
+I am currently venturing and trying out different methods to conduct software testing using python and also in parallel working on understanding the fundamentals of automation using Selenium, Jenkins, Gitbash and Azure Dev Ops.
 
 ### 🌱 I’m currently learning
 
@@ -20,4 +20,5 @@ My primary focus is to improve my knowledge on software testing.
 ### ⚡ Fun fact: 
 
 * I am a National Level Basketball Player.
-* I am awarded a scholarship of 15K at Florida Tech.
+* I love gaming and movies
+* I was awarded a scholarship of 15K at Florida Tech.
