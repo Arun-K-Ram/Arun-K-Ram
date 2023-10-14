@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Certified Tableau Desktop Specialist and Selenium test automation Engineer with proven technical proficiency in Data Science industry and automated industry with a strong expertise in providing statistical solutions, carrying out complex data analysis with multiple data analytics tools as well as automated test for web-based applications. My expertise involves:
+I m a certified Tableau Desktop Specialist and Selenium test automation Engineer with proven technical proficiency in Data Science industry and automated industry with a strong expertise in providing statistical solutions, carrying out complex data analysis with multiple data analytics tools as well as automated test for web-based applications. My expertise involves:
 •	Well-versed in designing test strategies and plans and QA guidelines in concurrence with industry standards, methodology, and best practices.
 •	Solid skills in writing SQL queries, and participating in requirements estimation, and requirements review meetings with the business.
 •	Actively participated in Scrum meetings like Sprint Grooming, Sprint Planning, Daily Stand-Ups, review, and retrospective
