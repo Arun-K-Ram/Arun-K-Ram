@@ -20,14 +20,10 @@ My primary focus is to improve my knowledge on software testing, machine learnin
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/arun-ramachandran-a2019a/"><img height="50" src="https://github.com/Arun-K-Ram/Arun-K-Ram/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/0/#inbox"><img height="50" src="https://github.com/Arun-K-Ram/Arun-K-Ram/blob/main/workspace-new-gmail-icon.png"></a>&nbsp;&nbsp;
-[![My Portfolio](https://via.placeholder.com/150)]([https://your-portfolio-link.com](https://aibycode.vercel.app/))
+<a href="[https://your-portfolio-link.com](https://aibycode.vercel.app/)">
+  <img src="https://dummyimage.com/150x150/000/fff&text=Portfolio" height="50">
+</a>
 
-
-### ⚡ Fun fact: 
-
-* I am a National Level Basketball Player.
-* I love gaming and movies
-* I was awarded a scholarship of 15K at Florida Tech.
 
 ### 🏅 Certifications: 
 * AI for Medicine
@@ -49,5 +45,13 @@ My primary focus is to improve my knowledge on software testing, machine learnin
 * Tools for data science
 * Machine learning
 * Project Management principles and practises
+
+
+### ⚡ Fun fact: 
+
+* I am a National Level Basketball Player.
+* I love gaming and movies
+* I was awarded a scholarship of 15K at Florida Tech.
+
 
 
