@@ -10,7 +10,7 @@ My interest is mainly focused on Data Science, Project management, Automation, p
 
 ### 🏅 Certifications: 
 * AI for Medicine
-* Ai capstone with deeplearning
+* AI capstone with deeplearning
 * Tableau Specialist
 * Deep learning with Keras and Tensorflow
 * Deep learning with Pytorch
