@@ -1,8 +1,8 @@
 ### Hi 👋
 
-Backend Engineer focused on building reliable systems and diagnosing where they break.
+Backend Engineer and AI/ML Engineer focused on building reliable systems, automation platforms, and machine learning solutions.
 
-I’ve worked on automation and scalable backend infrastructure in regulated environments (medical devices), where correctness and reliability aren’t optional.
+I’ve worked on automation and scalable backend infrastructure in regulated environments (medical devices), where correctness, reliability, and traceability are critical.
 
 ---
 
@@ -11,23 +11,43 @@ I’ve worked on automation and scalable backend infrastructure in regulated env
 * Designing backend systems using Python (FastAPI)
 * Building automation frameworks for large-scale workflows
 * Diagnosing system failures and improving reliability
+* Developing machine learning systems and applied AI solutions
 * Working with SQL and distributed system patterns
+
+---
+
+### 📄 Research
+
+**SigmaMedStat: Temporal Signal Modeling for ICU False Alarm Reduction**
+
+Independent research project exploring temporal signal modeling, Continuous Wavelet Transform (CWT) representations, and deep learning for ICU false alarm classification using the PhysioNet 2015 Challenge dataset.
+
+📄 Paper: https://arxiv.org/abs/2605.29236
+
+💻 Code: https://github.com/Arun-K-Ram/sigmamedstat
 
 ---
 
 ### 🚀 Featured Work
 
+**SigmaMedStat**
+
+* Temporal signal modeling framework for ICU false alarm reduction using EfficientNet and LSTM architectures
+* Includes ablation studies, calibration analysis, threshold optimization, and error analysis
+
 **TraceRoot - Workflow Failure Diagnosis Engine**
-- Detects silent workflow failures and identifies root causes using failure pattern analysis
+
+* Detects silent workflow failures and identifies root causes using failure pattern analysis
 
 **Automation Infrastructure for Web Applications**
-- Scalable Selenium framework with parallel execution and reporting
+
+* Scalable Selenium framework with parallel execution and reporting
 
 ---
 
 ### 🛠️ Tech Stack
 
-Python | FastAPI | SQL | Redis | AWS | Selenium | REST APIs
+Python | FastAPI | SQL | Redis | AWS | Selenium | PyTorch | Machine Learning | REST APIs
 
 ---
 
@@ -41,8 +61,10 @@ Python | FastAPI | SQL | Redis | AWS | Selenium | REST APIs
 
 ### 🌱 Currently
 
-* Building distributed systems
-* Exploring system-level failure detection and diagnostics
+* Building AI and backend systems
+* Exploring machine learning for healthcare and signal processing
+* Researching system-level failure detection and diagnostics
+
 
 ---
 ### 📫 Connect
